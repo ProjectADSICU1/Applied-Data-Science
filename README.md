@@ -1,4 +1,4 @@
-#Project for applied data science deliverables
+Project for applied data science deliverables
 
 Hello guys!
 
