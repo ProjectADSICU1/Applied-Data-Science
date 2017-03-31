@@ -5,9 +5,9 @@ Hello guys!
 These are the deliverables for each team:
 
 Shada:
-1.Send/Upload here all the CSV files containing the data that have to be visualised. The data need to be clean and ready for the machine learning and visulazation procedures.
-2.Create a txt file in which you mention the data that are the most important according to you. These are the most important columns in the CSV file and these collumns will be turned into the input data for machine learning and visualization procedures.
-3.Create a txt file in which you briefly explain  how you managed to load in the database this huge amount of data, the tools that you used and justify your selections.
+\1.Send/Upload here all the CSV files containing the data that have to be visualised. The data need to be clean and ready for the machine learning and visulazation procedures.
+\2.Create a txt file in which you mention the data that are the most important according to you. These are the most important columns in the CSV file and these collumns will be turned into the input data for machine learning and visualization procedures.
+\3.Create a txt file in which you briefly explain  how you managed to load in the database this huge amount of data, the tools that you used and justify your selections.
 
 Bao & Yuefeng:
 1.What have you tested so far? (Create a list of all the models that you have applied)
