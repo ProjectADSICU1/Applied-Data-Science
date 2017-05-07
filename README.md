@@ -1,5 +1,5 @@
 ## Applied Data Science Project. Team: ICU1
-### Team members: Aikaterini Baousi, Yefeneng Li, Christos Mourouzi, Akingobolade Shada, Baodong Wang
+### Team members: Aikaterini Baousi, Yuefeneng Li, Christos Mourouzi, Akingbolade Shada, Baodong Wang
 
 #### This repository contains the code used for the completion of this project. This includes:
 
